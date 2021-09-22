@@ -1,0 +1,191 @@
+{
+  "Position": {
+    "x": 2153.0,
+    "y": 892.0
+  },
+  "Day0": {
+    "Lesson0": {
+      "name": "국어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson1": {
+      "name": "체육",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson2": {
+      "name": "역사",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson3": {
+      "name": "기가",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson4": {
+      "name": "S.C.",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson5": {
+      "name": "미술",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson6": {
+      "name": "미술",
+      "finish": false,
+      "yet": false
+    }
+  },
+  "Day1": {
+    "Lesson0": {
+      "name": "과학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson1": {
+      "name": "영어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson2": {
+      "name": "체육",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson3": {
+      "name": "기가",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson4": {
+      "name": "수학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson5": {
+      "name": "음악",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson6": {
+      "name": "",
+      "finish": false,
+      "yet": false
+    }
+  },
+  "Day2": {
+    "Lesson0": {
+      "name": "영어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson1": {
+      "name": "사회",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson2": {
+      "name": "수학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson3": {
+      "name": "과학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson4": {
+      "name": "국어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson5": {
+      "name": "창체",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson6": {
+      "name": "창체",
+      "finish": false,
+      "yet": false
+    }
+  },
+  "Day3": {
+    "Lesson0": {
+      "name": "과학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson1": {
+      "name": "수학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson2": {
+      "name": "영어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson3": {
+      "name": "역사",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson4": {
+      "name": "국어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson5": {
+      "name": "체육",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson6": {
+      "name": "진로",
+      "finish": false,
+      "yet": false
+    }
+  },
+  "Day4": {
+    "Lesson0": {
+      "name": "영어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson1": {
+      "name": "도덕",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson2": {
+      "name": "기가",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson3": {
+      "name": "국어",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson4": {
+      "name": "사회",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson5": {
+      "name": "과학",
+      "finish": false,
+      "yet": false
+    },
+    "Lesson6": {
+      "name": "",
+      "finish": false,
+      "yet": false
+    }
+  }
+}

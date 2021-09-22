@@ -1,0 +1,23 @@
+﻿<Window x:Name="Window" x:Class="Checkle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Checkle"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Loaded="Window_Loaded"
+        KeyDown="Window_KeyDown"
+        Background="Transparent"
+        Title="Checkle" Height="500" Width="400" Icon="icon.png">
+    <Grid x:Name="BGrid" Background="#FF282828">
+        <Grid x:Name="TopPanel" MouseDown="TopPanel_MouseDown" Height="20" VerticalAlignment="Top" Background="#19555555">
+            <Rectangle x:Name="CloseRect" Opacity="0.05" MouseDown="CloseRect_MouseDown" MouseEnter="CloseRect_MouseEnter" MouseLeave="CloseRect_MouseLeave" Fill="#FFFF6262" HorizontalAlignment="Right" Width="20"/>
+            <local:MenuButton x:Name="ResetBtn" Text="BASE" MouseDown="ResetBtn_MouseDown" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="55"/>
+            <local:MenuButton x:Name="ResetBtn2" Text="RESET" MouseDown="ResetBtn2_MouseDown" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="55" Margin="55,0,0,0"/>
+        </Grid>
+        <Grid x:Name="World" Margin="0,20,0,0"/>
+
+    </Grid>
+</Window>
